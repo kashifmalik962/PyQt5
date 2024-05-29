@@ -289,4 +289,3 @@ window = MainWindow(url)
 
 # Loop
 app.exec_()
-#  tesing git
